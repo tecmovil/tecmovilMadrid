@@ -8,7 +8,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #6cf05b 0%, #07f562 100%);
     min-height: 100vh;
 }
 
@@ -144,12 +144,12 @@ body {
 }
 
 .btn-whatsapp {
-    background: linear-gradient(135deg, #25d366, #128c7e);
+    background: linear-gradient(135deg, #25d366, #087e70);
     color: white;
 }
 
 .btn-phone {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #75ea66, #764ba2);
     color: white;
 }
 
@@ -250,4 +250,12 @@ body {
         max-width: 300px;
         justify-content: center;
     }
+}
+
+.mapa {
+ width: 100%;
+
+      border: 5px solid #2e8b57; 
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3); 
 }
